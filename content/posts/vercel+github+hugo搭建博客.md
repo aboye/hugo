@@ -1,6 +1,7 @@
 ---
 title: "Vercel+github+hugo搭建博客"
 date: 2021-02-18T14:56:59+08:00
+typora-root-url: ../../static
 ---
 
 相信很多人都用Github Page搭建过个人博客，但是Github屏蔽了baidu爬虫，而国内一般都使用baidu。所以我选择使用Vercel网站托管服务。
@@ -11,11 +12,7 @@ Vercel前身是Zeit，Vercel类似于GIthub Page，但功能更强大，国内�
 
 访问vercel.com，使用Github账户授权登录
 
-
-
-![image-20210214154124227](/Users/logon/Documents/hugo/static/images/image-20210214154124227.png)
-
-![image-20210214154621058](/Users/logon/Documents/hugo/static/images/image-20210214154621058.png)
+![image-20210214154124227](/images/image-20210214154124227.png)![image-20210214154621058](/images/image-20210214154621058.png)
 
 选择Hugo模版，根据提示一直点击下一步直到完成。在Github账号下也会生成一个相关仓库，
 
