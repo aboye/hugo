@@ -1,6 +1,6 @@
 ---
-title: "Vercel+github+hugo搭建博客"
-date: 2021-02-18T14:56:59+08:00
+title: "Vercel、Github、Hugo搭建个人博客"
+date: 2021-02-18T15:05:56+08:00
 typora-root-url: ../../static
 ---
 
