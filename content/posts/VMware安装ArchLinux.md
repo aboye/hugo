@@ -179,3 +179,9 @@ sudo pacman -S sunpinyin    #输入法
 
 安装 typora
 yay -S typora
+
+Install VirtualBox on Arch Linux
+https://linuxhint.com/install-virtualbox-arch-linux/
+
+How to enable a Virtualbox shared folder for Linux guest systems
+https://averagelinuxuser.com/virtualbox-shared-folder/
